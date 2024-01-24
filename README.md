@@ -1,0 +1,1 @@
+![workflow](https://github.com/PhyoMinThaw1/sem/actions/workflows/main.yml/badge.svg)
